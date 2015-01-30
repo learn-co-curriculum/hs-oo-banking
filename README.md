@@ -12,5 +12,3 @@ Transfers start out in a "pending" state. They can be executed and go to a "comp
 ### Instructions
 
 Pass the tests. They are deliberatively vague; your design is up to you.
-
-YO

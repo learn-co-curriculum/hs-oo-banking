@@ -9,4 +9,4 @@ Transfers start out in a "pending" state. They can be executed and go to a "comp
 
 Pass the tests. They are deliberatively vague; your design is up to you.
 
-<a href='https://learn.co/lessons/hs-oo-banking' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-oo-banking' title='Objective'>Objective</a> on Learn.co and start learning to code for free.</p>
